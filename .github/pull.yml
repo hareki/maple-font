@@ -1,0 +1,6 @@
+version: '1'
+rules:
+  - base: variable
+    upstream: subframe7536:variable
+    mergeMethod: rebase
+
